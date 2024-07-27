@@ -64,10 +64,6 @@ assets:
   source:
   - name: 1fmAPRemoveItems.lua
 #Files
-- name: event_data/lm00_01
-  method: copy
-  source:
-  - name: event_data/lm00_01
 - name: exchange/UK_treasure.ev
   method: copy
   source:
