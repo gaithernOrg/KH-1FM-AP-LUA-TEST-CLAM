@@ -64,10 +64,6 @@ assets:
   source:
   - name: 1fmAPRemoveItems.lua
 #Files
-- name: lm01.ard
-  method: copy
-  source:
-  - name: lm01.ard
 - name: exchange/UK_treasure.ev
   method: copy
   source:
